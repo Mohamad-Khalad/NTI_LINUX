@@ -1,5 +1,5 @@
 
-# Linux Practice - Bash Command Reference
+# Linux Practice - LAB01
 
 ## 1. Install Ubuntu [Dual-boot, VM, Multipass]
 I used VM (Hyper-v)
